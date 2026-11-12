@@ -59,6 +59,6 @@ Sou **Gabriel**, estudante de Informática e desenvolvedor em formação. Gosto 
 
 *Transformando ideias em código.*
 
-[GitHub](https://github.com/gabriel31249090) · [Contato](mailto:gabriel31249090@gmail.com)
+<a href="https://github.com/gabriel31249090">GitHub</a> · <a href="mailto:gabriel31249090@gmail.com">Contato</a>
 
 </div>
